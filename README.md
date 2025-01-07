@@ -14,4 +14,4 @@ You can see some of my projects/works on these profiles;
 - [New Github](https://github.com/samiulahmedjoy?tab=repositories)
 - [Old Github](https://github.com/samiuljoy?tab=repositories)
 
-I also write occasionally, you can read some of my posts [here](https://samiuljoy.github.io)
+I also write random stuffs, you can read some of my posts [here](https://samiuljoy.github.io)
