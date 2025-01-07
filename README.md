@@ -1,13 +1,13 @@
 ## Halo
 
-I'm a graduate student of Plant Science; like to code sometimes.
+I'm a graduate student of Plant Science from the University of Chittagong; I also like to code
 
 ***Stuffs I'm interested in;***
 
 - _Web Scraping or Data Mining_
 - _IoT coding for task automation_
 - _Using Scripting languages to automate tasks as well_
-- Networking/Firewall setup for SoHo Environments, subnetting, iptables etc.
+- _Networking/Firewall setup for SoHo Environments, subnetting, iptables etc._
 
 You can see some of my projects/works on these profiles;
 
