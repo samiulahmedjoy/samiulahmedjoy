@@ -11,7 +11,9 @@ I'm a graduate student of Plant Science from the University of Chittagong; I als
 
 You can see some of my projects/works on these profiles;
 
-- [New Github](https://github.com/samiulahmedjoy?tab=repositories)
-- [Old Github](https://github.com/samiuljoy?tab=repositories)
+- [New GitHub](https://github.com/samiulahmedjoy?tab=repositories)
+- [Old GitHub](https://github.com/samiuljoy?tab=repositories)
 
-I also write random stuffs, you can read some of my posts [here](https://samiuljoy.github.io)
+__I've forked my previous projects/works from my old GitHub repos to the new one for convenience__
+
+I also write random articles, you can read some of my posts [here](https://samiuljoy.github.io)
