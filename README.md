@@ -14,6 +14,6 @@ You can see some of my projects/works on these profiles;
 - [New GitHub](https://github.com/samiulahmedjoy?tab=repositories)
 - [Old GitHub](https://github.com/samiuljoy?tab=repositories)
 
-___Note___: I've forked my previous projects/works from my old GitHub repos to the new one for convenience. If you want to see people engaging into my previous projects, visit my old GitHub [@samiuljoy](/samiuljoy?tab=repositories)
+___Note___: _I've forked my previous projects/works from my old GitHub repos to the new one for convenience. If you want to see people engaging into my previous projects, visit my old GitHub <a href="https://github.com/samiuljoy?tab=repositories">@samiuljoy</a>_
 
 I also write random articles, you can read some of my posts [here](https://samiuljoy.github.io)
